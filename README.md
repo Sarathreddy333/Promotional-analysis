@@ -52,6 +52,8 @@ Category-level insights helped identify high-margin products for future campaign
 
 **Live Dashboard**:(https://app.powerbi.com/view?r=eyJrIjoiMjE4YmI4NzgtNmVkNC00ZTgxLTk5Y2QtOTZiM2FmZGVhMmQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+**This Promotional Analysis Github Repository Link**:(https://github.com/Sarathreddy333/Promotional-analysis)
+
 
 🧩 Skills Demonstrated
 Power BI | DAX | Data Modeling | Data Cleaning | Data Visualization | Business Analysis | Storytelling with Data
