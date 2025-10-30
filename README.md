@@ -54,6 +54,8 @@ Category-level insights helped identify high-margin products for future campaign
 
 **This Promotional Analysis Github Repository Link**:(https://github.com/Sarathreddy333/Promotional-analysis)
 
+**Video Presentation ( Linkedin Post )**:(https://www.linkedin.com/posts/sarath-reddy-chagamreddy_f8f9fb-e9eef5-1f4e79-activity-7387018346791116800-mquq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuDobcBzEY8iA2VkYwfU5iB_BjqLLnXj70)
+
 
 🧩 Skills Demonstrated
 Power BI | DAX | Data Modeling | Data Cleaning | Data Visualization | Business Analysis | Storytelling with Data
